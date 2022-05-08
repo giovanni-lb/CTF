@@ -4,5 +4,5 @@ I often participated to CTF competitions, in solo or with my team : [HDFR - Hack
 
 | CTF                         | Challenge Name | Category  | Link                                                      |
 |-----------------------------|----------------|-----------|-----------------------------------------------------------|
-| Davinci CTF - 2021          | Art galerie    | Forensics | [Art galerie](./DaVinciCTF-2021/Art_Galerie-Forensics.md) |
+| Davinci CTF - 2021          | Art galerie    | Forensics | [Art galerie](./DaVinciCTF-2021/Art_Galerie/) |
 | FCSC - 2022 (qualification) | Microroptor    | Pwn       | [Microroptor](./FCSC-2022/Microroptor-Pwn/)               |
